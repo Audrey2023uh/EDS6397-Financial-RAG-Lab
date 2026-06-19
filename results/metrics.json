@@ -1,0 +1,33 @@
+{
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "k": 5,
+  "num_questions": 3,
+  "baseline": {
+    "name": "Baseline",
+    "hit_rate_at_k": 33.33,
+    "mrr": 0.1111,
+    "recall": 0.12,
+    "groundedness": 100.0,
+    "factual_accuracy": 0.0,
+    "hallucination_rate": 0.0
+  },
+  "engineered": {
+    "name": "Engineered",
+    "hit_rate_at_k": 66.67,
+    "mrr": 0.3333,
+    "recall": 7.72,
+    "groundedness": 66.67,
+    "factual_accuracy": 33.33,
+    "hallucination_rate": 33.33
+  },
+  "question_uids": [
+    "UID0010",
+    "UID0086",
+    "UID0111"
+  ]
+}
