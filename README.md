@@ -14,16 +14,11 @@ Build and evaluate a **Baseline** vs **Engineered** RAG pipeline over U.S. Treas
 | `results/per_question_results.csv` | Per-question details |
 | `results/AUDIT_REPORT.md` | Metric verification audit |
 
-See `PROJECT_FILE_INVENTORY.md` for the full KEEP/DELETE file list.
+
 
 ## Quick start
 
-```powershell
-cd "C:\Users\audre\OneDrive\Ai Summer Class\AI Class\Practice Problem\Sec Week\Fiancial"
-pip install -r requirements.txt
-python run_all.py
-python create_submission_docx.py
-```
+
 
 ## Architecture
 
