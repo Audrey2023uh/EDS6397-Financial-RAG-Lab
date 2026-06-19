@@ -49,4 +49,3 @@ Build and evaluate a **Baseline** vs **Engineered** RAG pipeline over U.S. Treas
 | Factual Accuracy | 0.00% | 33.33% |
 | Hallucination Rate | 0.00% | 33.33% |
 
-Evaluated on 3 OfficeQA Pro questions: UID0010, UID0086, UID0111.
