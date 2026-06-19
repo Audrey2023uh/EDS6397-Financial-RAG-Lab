@@ -16,7 +16,7 @@ Build and evaluate a **Baseline** vs **Engineered** RAG pipeline over U.S. Treas
 
 
 
-## Quick start
+## Start
 
 
 
