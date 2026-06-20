@@ -4,7 +4,7 @@ Build and evaluate a **Baseline** vs **Engineered** RAG pipeline over U.S. Treas
 
 **Student:** Audrey Rah  
 **Recent Years Used:** 2022, 2023, 2024, 2025  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/financial-rag-challenge
+**GitHub:** https://github.com/Audrey2023uh/financial-rag-challenge
 
 ---
 
