@@ -1,0 +1,342 @@
+# Treasury Bulletin proxy from ESF March 2025 FS
+   
+ 
+                              
+                                      
+                                     
+                              
+ 
+                                
+                           
+                                   
+                                
+                              
+                                                       
+                           
+ 
+ 
+ 
+                                       
+                                   
+                                
+                           
+                              
+                                                       
+                           
+ 
+                                    
+                                     
+                                    
+                              
+                                      
+                              
+                              
+ 
+ 
+DEPARTMENT OF THE TREASURY 
+EXCHANGE STABILIZATION FUND 
+BALANCE SHEET 
+As of March 31, 
+(In Whole Dollars) 2025 
+Assets 
+Intra-Governmental
+    Fund Balance with Treasury Note 1 $ 176,498,314.35
+    Nonmarketable U.S. Treasury Securities 20,068,927,043.92 
+Other Intragovernmental Assets 19,030,186.23 
+Credit Program Receivables, Net 14,073,780.46 
+Total Intra-Governmental 20,278,529,324.96 
+Other Than Intra-Governmental 
+Foreign Currency and Other Monetary Assets
+     Foreign Currency and Foreign Currency Denominated Assets Note 2 5,411,856,477.99
+     Special Drawing Right Holdings and Related Interest Receivable Note 3 171,245,975,180.22 
+Loans Receivable, Net Note 4 154,384,752.82 
+Other Investments
+     Investments in Special Purpose Vehicles Note 5 4,498,015,291.78
+     Other Investments, Net Note 2 12,840,233,458.95 
+Other Receivable -
+Total Other Than Intra-Governmental 194,150,465,161.76 
+Total Assets $ 214,428,994,486.72 
+Liabilities: 
+Intra-Governmental 
+Debt Note 6 $ 4,225,569,402.50 
+Due to the General Fund 1,193,609.82 
+Other Liabilities Note 7 613,696,954.94 
+Total Intra-Governmental 4,840,459,967.26 
+Other than Intra-Governmental 
+Special Drawing Right Allocations and Related Interest Payable Note 3 153,392,906,211.71 
+Special Drawing Right Certificates Issued to Federal Reserve Banks Note 8 15,200,000,000.00 
+Other Liabilities 
+-
+Total Other Than Intra-Governmental 168,592,906,211.71 
+Total Liabilities $ 173,433,366,178.97 
+Commitments and Contingencies Note 9, 10 
+Net Position: 
+Unexpended Appropriations 
+Funds from Dedicated Collections 200,000,000.00 
+Funds from Other than Dedicated Collections 22,074,793.80 
+Total Unexpended Appropriations  (Consolidated) 222,074,793.80 
+Cumulative Results of Operations 
+Funds from Dedicated Collections 40,775,162,663.25 
+Funds from Other than Dedicated Collections (1,609,149.30) 
+Total Cumulative Results of Operations  (Consolidated) 40,773,553,513.95 
+Total Net Position 40,995,628,307.75 
+Total Liabilities and Net Position $ 214,428,994,486.72 
+See accompanying notes to financial statements. 
+
+ 
+                                  
+                                             
+                                 
+                                 
+                                    
+                                    
+  
+  
+                                  
+                                    
+                               
+                                  
+  
+                               
+                               
+                                  
+                                  
+  
+  
+  
+                                      
+                                           
+                                                        
+  
+                                    
+                                    
+                                          
+  
+  
+  
+ 
+ 
+DEPARTMENT OF THE TREASURY 
+EXCHANGE STABILIZATION FUND 
+STATEMENTS OF NET COST 
+As of March 31, 2025 
+(In Whole Dollars) Month Fiscal Year 
+STRATEGIC GOAL 1: EXCHANGE STABILIZATION 
+Gross Cost 
+Interest Expense on Special Drawing Rights Allocations $ 401,353,837.89 2,472,945,253.99 
+International Monetary Fund Annual Assessment and Other $ 4,202.98 35,107.44 
+Losses on Currency Valuation and Other 
+Special Drawing Rights Holdings $ - 6,744,169,576.49 
+Special Drawing Rights Allocations $ 2,271,278,612.55 2,865,836,519.89 
+Foreign Currency and Foreign Currency Denominated Assets Note 11 $ 1,422.75 980,135,808.65 
+Other Investments $ 3,382,788.72 629,792,414.13 
+Total Losses on Currency Valuation and Other $ 2,274,662,824.02 $ 11,219,934,319.16 
+Total Gross Cost – Exchange Stabilization $ 2,676,020,864.89 $ 13,692,914,680.59 
+Less Earned Revenue 
+Interest Income 
+Nonmarketable U.S. Treasury Securities $ (74,209,093.17) (402,843,616.77) 
+Foreign Currency and Foreign Currency Denominated Assets $ (3,788,121.57) (38,084,502.45) 
+Special Drawing Rights Holdings $ (448,067,957.26) (2,754,630,085.51) 
+Other Investments $ (21,117,154.00) (103,069,528.88) 
+Total Interest Income $ (547,182,326.00) $ (3,298,627,733.61) 
+Gains on Currency Valuation and Other
+    Special Drawing Rights Holdings $ (2,535,635,793.77) (3,199,395,097.88)
+   Special Drawing Rights Allocations $ - (6,065,733,434.26) 
+Foreign Currency and Foreign Currency Denominated Assets Note 11 $ (61,070,104.46) (390,056,087.01) 
+Other Investments $ (409,234,052.89) (589,203,295.23) 
+Total Gains on Currency Valuation and Other $ (3,005,939,951.12) $ (10,244,387,914.38) 
+Total Earned Revenue – Exchange Stabilization $ (3,553,122,277.12) $ (13,543,015,647.99) 
+Total Net Cost (Income) of Operations – Exchange Stabilization $ (877,101,412.23) $ 149,899,032.60 
+STRATEGIC GOAL 2: ECONOMIC RECOVERY PROGRAM 
+Gross Cost 
+Interest Expense on Debt $ 3,045,181.62 24,868,398.80 
+Administrative Expenses Note 12 $ 672,606.31 825,919.56 
+Costs of Investments in Special Purpose Vehicles and Loans Receivable $ - -
+Total Gross Cost – Economic Recovery Program $ 3,717,787.93 $ 25,694,318.36 
+Less: Earned Revenue 
+Interest Income on Uninvested Funds $ (2,345,630.09) (14,073,780.46) 
+Interest Income on Credit Program Receivables $ (2,032,453.06) (10,496,031.32) 
+Gains on Investments in Special Purpose Vehicles and Loans Receivable $ 1,332,901.53 (298,587.02) 
+Total Earned Revenue – Economic Recovery Program $ (3,045,181.62) $ (24,868,398.80) 
+Total Net Cost (Income) of Operations – Economic Recovery Program $ 672,606.31 $ 825,919.56 
+Total Net Cost (Income) of Operations $ (876,428,805.92) $ 150,724,952.16 
+See accompanying notes to financial statements. 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                               
+EXCHANGE STABILIZATION FUND 
+NOTES TO THE FINANCIAL STATEMENTS 
+For the Current Month and Fiscal Year Periods Ending March 31, 2025 
+1.) Fund Balance with Treasury (FBWT) of $176 million will be used to fund adjustments to subsidy costs and to repay borrowings from Treasury needed to finance investments and loans made 
+under the Coronavirus Aid, Relief, and Economic Security Act (CARES Act).  In accordance with the CARES Act, any excess amounts from the final distributions from our investments and loans 
+after repayment of appropriations and borrowings will be deposited into the Federal Old-Age and Survivors Insurance Trust Fund (OASI) established under the Social Security Act.  During March 
+2025, Treasury received $26 million of principal and interest collections from various program loans (See footnote 4) resulting in a increase in FBWT.
+ 2.) Foreign Currency and Foreign Currency Denominated Assets (FCDAs) represent deposits and investments in foreign government securities, denominated in both euro and yen, that have 
+original maturities of three months or less. Other Investments are FCDAs that have maturities of greater than three months. Some of these instruments may have been purchased at a premium and 
+others may have been purchased at a discount.  Premiums (that are amortized) and discounts (that accrete) are allocated to expense (amortization expense) and revenue, respectively, over the life of 
+the instrument.  Treasury rebalances the portfolio between Foreign Currency and FCDAs and Investments from time-to-time based on its evaluation of its projected liquidity needs and interest 
+revenues.  During March 2025, FCDAs increased by $68 million primarily due to valuation adjustments resulting from changes in foreign exchange rates.  Foreign Currency and FCDAs and Other 
+Investments are reported at fair value.  Valuation adjustment(s) are recorded as gains or losses on the statement of net cost on a monthly basis  (See Table #1 for a breakdown by currency). 
+3.) The Special Drawing Rights Act of 1968 authorizes the United States to purchase, sell, and hold Special Drawing Rights (SDRs) through the Exchange Stabilization Fund "ESF".  There were no 
+SDR purchases or sales by Treasury during March 2025.  As of March 2025, U.S. SDR Holdings were SDR 128 billion.  Changes in both SDR Holdings and SDR Allocations reflect changes in the 
+foreign exchange rate. 
+4.) The ESF has made economic recovery program loans using CARES Act appropriated funds and borrowings.  Treasury's authority to disburse loans for these programs has expired.  During 
+March 2025 outstanding loans decreased by $26 million as a result of principal and interest collections on loans.  Loan receivables are reported as the net present value of the estimated future cash 
+flows which is updated annually. 
+5.) As of March 31, 2025, only one of Treasury’s initial six economic recovery programs established under the CARES Act with the Federal Reserve Banks of New York and Boston remains.  The 
+Main Street Lending Program (MSLP) provides for regular distributions of the amount by which Treasury's investment in MSLP exceeds the amount needed to support the participation in the 
+remaining loans.  There were no collections from Treasury's investment in MSLP during the month of March 2025.  The investment in MSLP is reported at fair value which is updated annually. 
+Treasury has fulfilled its funding commitments with respect to investments made pursuant to the CARES Act. 
+6.) Debt represents borrowings, plus interest, from Treasury through the Bureau of Fiscal Service (BFS) that were used, along with the appropriated fund balance, to fund the economic recovery 
+program investments and loans authorized under the CARES Act.  Collections from the investments and loan repayments are primarily used to repay debt.  There were no debt repayments during 
+the month of March 2025.  The remaining balances at the end of March 2025 are $4.1 billion for the MSLP, less than $1 million for the TALF, $108 million for Passenger Air Carriers, $9 million 
+for Cargo Air Carriers, and $24 million for National Security Loan Programs. 
+7.) Other Liabilities: As stated in footnote 1, in accordance with the CARES Act, any excess amounts from the final distributions from our investments and loans after repayment of appropriations 
+and borrowings will be deposited into the Federal Old-Age and Survivors Insurance Trust Fund (OASI) established under the Social Security Act. 
+8.)  The Special Drawing Rights Act of 1968, as amended (the SDR Act, codified at 22 U.S.C. §§ 286n-286r), authorizes the Secretary of the Treasury to issue SDR Certificates (SDRCs) against 
+SDRs held in the ESF to the FRBs in exchange for dollars.  Under the SDR Act, SDRCs may remain issued and outstanding only for the purpose of financing SDR acquisitions or for financing 
+exchange stabilization operations. On December 19, 2024, the Secretary of the Treasury issued $5 billion worth of SDRCs to the FRBs. 
+9.) The ESF has an exchange stabilization agreement with Mexico for $9 billion; this agreement was renewed in November 2024 for an additional year.  No drawings are outstanding under this 
+agreement. 
+10.)  Established in 2023 as a short-term program, the Bank Term Funding Program (BTFP) provided liquidity to help eligible financial institutions meet the needs of their depositors.  Per the terms 
+of an agreement between Treasury and the Federal Reserve Banks (FRBs), Treasury, via the ESF, agreed to provide up to $25 Billion in credit protection to cover FRBs for potential losses under 
+the program.  As of March 31, 2025 all BTFP advances have been repaid in full. 
+11.) Foreign currency denominated assets are revalued daily -- and reported monthly -- to reflect fluctuations in market exchange rates.  These fluctuations in market exchange rates are reported in 
+the Statement of Net Cost as either Losses or Gains on "Currency Valuation and Other."  This gain or loss is unrealized to the Exchange Stabilization Fund until such time as the Fund sells the 
+asset. 
+12.) Up to $100 million of the funds appropriated by the CARES Act to the ESF is authorized to make payments for administrative expenses incurred in connection with loans, loan guarantees, and 
+other investments authorized under the CARES Act. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+                                                         
+                                                                
+                                                                              
+                                                                
+                                                                  
+                                                                       
+                                                              
+                                                                  
+                                                                                                          
+                                                                            
+                                                                            
+Table #1 – Foreign Currency and Foreign Currency Denominated Assets and Other Investments by Currency: 
+Table 1 
+(In Whole Dollars) 
+Foreign Currency and Foreign Currency Denominated Assets 
+European Euros: 
+Deposits with Official Institutions 
+Foreign Currency Denominated 
+Uninvested Foreign Currency
+     Total European euro 
+Japanese Yen 
+Deposits with Official Institutions 
+Foreign Currency Denominated 
+Uninvested Foreign Currency
+     Total Japanese yen 
+Accrued interest receivable on Foreign Currency and Foreign Currency Denominated Assets 
+Total Foreign Currency and Foreign Currency Denominated Assets 
+Other Investments, Net 
+European Euros: 
+Securities: 
+Held Outright 
+Held under Repurchase Agreements
+     Total European euro 
+Japanese Yen 
+Securities: 
+Held Outright 
+Held under Repurchase Agreements
+     Total Japanese yen 
+Accrued Interest Receivable on Other Investments 
+Total Other Investments, Net 
+Table #2 - Valuation Losses & Gains, Net: 
+Special Drawing Rights 
+Special Drawing Rights Holdings - Loss / (Gain)
+    Special Drawing Rights Allocations - Loss / (Gain)
+               Net Loss / (Gain) 
+Foreign Currency and Foreign Currency Denominated Asset
+    Foreign Currency and Foreign Currency Denominated Assets - Loss 
+Foreign Currency and Foreign Currency Denominated Assets - (Gain)
+               Net Loss / (Gain) 
+Other Investments Asset
+    Other Investments - Loss 
+Other Investments - (Gain)
+               Net Loss / (Gain) 
+Investments and Credit Program Receivables 
+Costs of Investments in Special Purpose Vehicles and Loans Receivable 
+Gains on Investments in Special Purpose Vehicles and Loans Receivable 
+               Net Cost / (Gain) 
+Current Month 
+$ 1,083,835,579.26 
+$ 11,734,772.23 
+$ 1,095,570,351.49 
+$ -
+$ 4,316,194,074.44 
+$ 4,316,194,074.44 
+$ 92,052.06 
+$ 5,411,856,477.99 
+$ 10,830,310,348.72 
+$ -
+$ 10,830,310,348.72 
+$ 1,924,491,074.73 
+$ -
+$ 1,924,491,074.73 
+$ 85,432,035.50 
+$ 12,840,233,458.95 
+Current Month Fiscal Year 
+(2,535,635,793.77) 
+2,271,278,612.55 
+(264,357,181.22) 
+3,544,774,478.61
+(3,199,896,914.37)
+344,877,564.24 
+1,422.75 
+(61,070,104.46) 
+(61,068,681.71) 
+980,135,808.65 
+(390,056,087.01)
+590,079,721.64 
+3,382,788.72 
+(409,234,052.89) 
+(405,851,264.17) 
+629,792,414.13 
+(589,203,295.23)
+40,589,118.90 
+-
+1,332,901.53 
+1,332,901.53 
+-
+(298,587.02)
+(298,587.02) 
